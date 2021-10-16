@@ -1,3 +1,3 @@
 # botinvite
 
-https://akreorl.xyz/botinvite
+https://akreorl.xyz/bot
